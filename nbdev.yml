@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdev_doctest"
+  site-url: "https://omlnaut.github.io/nbdev_doctest"
+  description: "fastcore bug"
+  repo-branch: master
+  repo-url: "https://github.com/omlnaut/nbdev_doctest"
